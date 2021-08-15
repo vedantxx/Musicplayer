@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musicplayer</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="song_name">Song Name</string>
+    <string name="songname">Song Name</string>
+    <string name="thumbnailimage">Thumbnailimage</string>
+    <string name="_0_10">0:10</string>
+    <string name="_4_10">4:10</string>
+</resources>
